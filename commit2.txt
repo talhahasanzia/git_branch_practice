@@ -1,1 +1,2 @@
 new commit after new_fix was merged with master and deleted.
+This is after the deletion of new_fix branch.
