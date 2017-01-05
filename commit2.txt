@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+new issue
 new commit after new_fix was merged with master and deleted.
 This is after the deletion of new_fix branch.
-=======
-new issue
+
+
 finally new issue was resolved.
->>>>>>> new_issue
